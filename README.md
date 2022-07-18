@@ -1,4 +1,7 @@
-# Labelmanager
+# WeddingGuestManager-FrontEnd
+Hi! This is my first Angular repo: the frontend for my mini project, a Wedding Guest Manager web-app built with Spring Boot and Angular. See the backend repo here: https://github.com/tabPC/WeddingGuestManager-BackEnd
+
+~
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.5.
 
