@@ -5,6 +5,8 @@ This project is set up for my own developmental purposes.
 
 Please see these resources used: [Spring Boot Full Stack with Angular Tutorial](https://www.youtube.com/watch?v=Gx4iBLKLVHk&t=4444s&ab_channel=Amigoscode) and [Bootdey Snippet: BS4 Contact Cards](https://www.bootdey.com/snippets/view/bs4-contact-cards)
 
+Also see my post about this app on my [Portfolio Website](https://tabchemelli.com/wedding-guest-manager-beginner-spring-boot-angular-app/)
+
 ~
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.5.
